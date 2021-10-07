@@ -18,6 +18,8 @@ namespace Homework1
             Console.ReadLine();
 
             //Comment
+            //Hello
+            //Comment
         }
     }
 }
