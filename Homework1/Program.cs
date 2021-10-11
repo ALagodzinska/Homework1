@@ -17,9 +17,8 @@ namespace Homework1
             Console.Write("Bye!");
             Console.ReadLine();
 
-            //Comment
             //Hello
-            //Comment
+
         }
     }
 }
